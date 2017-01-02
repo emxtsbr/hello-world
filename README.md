@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi Bipeds!
+Charlie the Beagle here.
+I'm a quadruped.
+I've got a tale to tell.
